@@ -17,12 +17,6 @@ You can also watch a demo video of this project [on my YouTube](https://youtu.be
 
 Alternatively, if you want to watch the results of my [Behavioral Cloning Project](https://goo.gl/6njxcy), you can watch a simulation video for the [same Lake Track](https://youtu.be/bJPQDfu15sc), or the [more challenging Jungle Track](https://youtu.be/eu2-NLfhzYQ).
 
-
-## Get the Code
-
-You can download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/car/pid/p9-PID-controller.zip)
-
-
 ## Project Setup
 
 This project involves the Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
